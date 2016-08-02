@@ -18,7 +18,7 @@
         - Access is installed with new package
         - Install completed
         - Access is version 5.0.15.0
-    - Create a CSV containg that data
+    - Create a CSV containing that data
     - Create a new file of computers not checked
     
     Path to logFile file:
